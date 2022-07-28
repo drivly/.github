@@ -1,4 +1,4 @@
-# 🏎 The Future of Automotive Commerce
+# 🏎 Automotive Commerce Infrastructure
 [Driv.ly](https://driv.ly) offers simple unified APIs to buy and sell cars online, and we're funded by some of the [biggest names](https://twitter.com/TurnerNovak) in [automotive](https://fontinalis.com/team/#bill-ford) and [finance & insurance](https://www.detroit.vc)
 
 #  🚀 We're Hiring!
